@@ -1,6 +1,5 @@
 p {
-	font-size: 20px;
-	line-height: 1.5;
-	text-align: justify;
-	width: 400px;
+
+	font: 13px "Times New Roman" ;
+	line-height: 20px;
 }
