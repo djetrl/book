@@ -1,12 +1,26 @@
 td {
-	width:300px;
-	height: 100px;
-	text-align: justify;
-}
-p{
-	
-}
-h2{
-	width: 300px;
+	width:500px;
+	height: 300px;
 	text-align: center;
+	font-weight: bold;
 }
+th {text-align: center;
+	font-weight: normal;
+}
+<table border="1">
+	<tr>
+		<th>Имя</th>
+		<th>Фамилия</th>
+		<th>Зарплата</th>
+	</tr>
+	<tr>
+		<td>Иван</td>
+		<td>Иванов</td>
+		<td>200$</td>
+	</tr>
+	<tr>
+		<td>Николай</td>
+		<td>Петров</td>
+		<td>300$</td>
+	</tr>
+</table>
