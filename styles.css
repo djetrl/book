@@ -1,22 +1,2 @@
-body{
-	width: 500px;
-}
-h1 {
-	font-size: 35px;
-	color: blue;
-	text-align: center;
-}
-h2 { 
-font-size: 28px;
-color: green;
-	text-align: center;
-font-weight: normal;}
-p {
-	text-indent: 35px;
-	font-size: 20px;
-	text-align: justify;
-}
-i {color:green;}
-li {font-size: 16px;
-	text-align: justify;}
+li > b {color: red;}
 		
