@@ -1,5 +1,4 @@
 p {
-width: 300px;
-	font: bold 40px Arial ;
-	color: red;
+	font: bold italic 40px/60px Arial ;
+	text-indent: 50px;
 }
