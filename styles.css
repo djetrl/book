@@ -1,5 +1,5 @@
 p {
-	text-indent: 50px;
-	text-align: justify;
-	width: 400px;
+		font-size: 23px;
+		text-decoration: overline;
+		color: red;
 }
