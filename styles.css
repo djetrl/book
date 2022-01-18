@@ -1,7 +1,9 @@
-.c1{
-background-color: red;
-
+.header {
+	color: red;
 }
-.c2{
-background-color:green;
+.header h2{
+	font-size: 40px;
+}
+.header h3 {
+	font-size: 30px;
 }
