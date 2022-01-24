@@ -1,4 +1,4 @@
-li:nth-child(4) {
+li:only-child {
 	color: red;
 }
 
