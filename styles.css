@@ -4,7 +4,12 @@
 }
 
 #child {
-	height: 250px;
-	border: 1px solid orange;
-	margin: 40px;
+	height: 200px;
+	border: 1px dashed green;
+	margin: 30px;
+}
+#child2 {
+	height: 140px;
+	border: 1px solid red;
+	margin: 30px;
 }
