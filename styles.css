@@ -1,15 +1,12 @@
 #parent {
-	width: 350px;
-	border: 1px dashed blue;
-}
-
-#child {
-	height: 200px;
-	border: 1px dashed green;
-	margin: 30px;
-}
-#child2 {
-	height: 140px;
+	width: 180px;
 	border: 1px solid red;
-	margin: 30px;
+}
+#child {
+	margin-top:    40px;
+	margin-right:  40px; 
+	margin-bottom: 80px; 
+	margin-left:   40px; 
+	height: 100px;
+	border: 1px solid green;
 }
