@@ -2,7 +2,7 @@
 	width: 70px;
 	height: 70px;
 	border: 1px solid red;
-	background-color: red;
+	background-color: #FF8888;
 }
 #elem2 {
 	width: 70px;
@@ -13,7 +13,7 @@
 	left: 55px;
 	top: 55px;
 
-background-color: blue;
+background-color: #7E89EB;
 }
 #elem3 {
 	width: 70px;
@@ -23,5 +23,5 @@ background-color: blue;
     left: 100px;
 	top: 100px;
 
-	background-color: green;
+	background-color: #4DEE99;
 }
