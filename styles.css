@@ -1,13 +1,23 @@
-.parent	{
-	display: flex;
-	justify-content: space-evenly;
-	width: 700px;
-	height: 300px;
+#elem1 {
+	width: 70px;
+	height: 70px;
 	border: 1px solid red;
 }
+#elem2 {
+	width: 70px;
+	height: 70px;
+	border: 1px solid blue;
+	position: absolute;
 
-.child {
-	width: 100px;
-	height: 60px;
+	left: 90px;
+	top: 100px;
+
+}
+#elem3 {
+	width: 70px;
+	height: 70px;
 	border: 1px solid green;
+	position: absolute;
+    left: 180px;
+	top: 200px;
 }
