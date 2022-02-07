@@ -1,27 +1,26 @@
 #elem1 {
-	width: 70px;
-	height: 70px;
-	border: 1px solid red;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
 	background-color: #FF8888;
 }
 #elem2 {
-	width: 70px;
-	height: 70px;
-	border: 1px solid blue;
-	position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
 
-	left: 55px;
-	top: 55px;
-
-background-color: #7E89EB;
+	position: relative;
+	top:-40px;
+	left: 40px;
 }
 #elem3 {
-	width: 70px;
-	height: 70px;
-	border: 1px solid green;
-	position: absolute;
-    left: 100px;
-	top: 100px;
-
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
 	background-color: #4DEE99;
+
+	position: relative;
+	top:-80px;
+	left: 115px;
 }
