@@ -1,7 +1,7 @@
-.parent {
-	display: flex;
-	
+.parent	{
+	display: inline-flex;
 	border: 1px solid red;
+	width:100%;
 }
 .child {
 	width: 120px;
