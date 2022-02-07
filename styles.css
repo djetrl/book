@@ -2,6 +2,7 @@
 	width: 70px;
 	height: 70px;
 	border: 1px solid red;
+	background-color: red;
 }
 #elem2 {
 	width: 70px;
@@ -12,6 +13,7 @@
 	left: 55px;
 	top: 55px;
 
+background-color: blue;
 }
 #elem3 {
 	width: 70px;
@@ -20,4 +22,6 @@
 	position: absolute;
     left: 100px;
 	top: 100px;
+
+	background-color: green;
 }
