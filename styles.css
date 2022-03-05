@@ -1,9 +1,18 @@
 .el {
+	width: 600px;
+	padding: 20px;
+	margin: 0 auto;
+	border: 1px solid black;
 	text-align: justify;
 }
-#kar_1 {
-	float: right;
-}
-#kar_2 {
+.left {
 	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.right {
+	float: right;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
 }
