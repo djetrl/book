@@ -1,5 +1,5 @@
 .parent {
-	width: 600px;
+	width: 100%px;
 	padding: 20px;
 	margin: 0 auto;
 	border: 1px solid black;
@@ -7,7 +7,7 @@
 }
 
 .child {
-	float: right;
+	float: left;
 	width: 100px;
 	height: 70px;
 	margin-top: 20px;
@@ -15,4 +15,7 @@
 	margin-bottom: 10px;
 	border: 1px solid green;
 	text-align: center;
+}
+.clearfix {
+	clear: both;
 }
