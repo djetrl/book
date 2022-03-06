@@ -1,4 +1,4 @@
- {
+* {
 	box-sizing: border-box;
 }
 #wrapper {
@@ -14,15 +14,21 @@
 #container {
 	display: flex;
 }
-#content {
-	width: 860px;
-	height: 900px;
+#left {
+	width: 300px;
+	margin-right: 30px;
 	padding: 20px;
 	border: 1px solid black;
 }
-#sidebar {
+#content {
+	width: 640px;
+	height: 700px;
+	padding: 20px;
+	border: 1px solid black;
+}
+#right {
 	width: 300px;
-	margin-left: 40px;
+	margin-left: 30px;
 	padding: 20px;
 	border: 1px solid black;
 }
