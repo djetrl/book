@@ -5,8 +5,9 @@ height: 350px;
 	border: 1px solid rgb(248, 7, 7);
 	text-align: justify;
 	display: flex;
-	flex-direction: column-reverse; 
-	justify-content: flex-end; 
+	flex-direction: column-reverse;
+	justify-content: flex-end;
+	align-items: flex-end;
 }
 
 .child {
