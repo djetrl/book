@@ -1,68 +1,33 @@
-#header {
-	background: #008040;
-	color: white;
-}
-.wrapper {
-	margin-bottom: 30px;
-}
 * {
 	box-sizing: border-box;
 }
-body {
-	font-family: Arial;
+#wrapper {
+	width: 1200px;
+	margin: 30px auto;
+	border: 1px solid black;
 }
-.center {
-	width: 840px;
-	padding: 10px;
-	margin: 0 auto;
+#header {
+	height: 250px;
+	padding: 20px;
+	border: 1px solid black;
 }
-#header h1 {
-	font-size: 35px;
-	margin-bottom: 7px;
-	text-align: center;
+#container {
+	display: flex;
 }
-#header p {
-	font-size: 21px;
-	margin-bottom: 5px;
-	text-align: center;
+#sidebar {
+	width: 300px;
+	margin-right: 40px;
+	padding: 20px;
+	border: 1px solid black;
 }
-.wrapper h2 {
-	margin-bottom: 10px;
-	text-align: center;
-	font-size: 27px;
-}
-.wrapper p,
-.wrapper li {
-	margin-bottom: 10px;
-	text-align: justify;
-	font-size: 16px;
-}
-#contacts p {
-	text-align: center;
-}
-body,
-p,
-h1,
-h2,
-ul,
-ol {
-	margin: 0;
-	padding: 0;
-}
-#services {
-	background-color: white;
-}
-.wrapper {
-	margin-bottom: 30px;
+#content {
+	width: 860px;
+	height: 900px;
+	padding: 20px;
+	border: 1px solid black;
 }
 #footer {
-	padding-top: 100px;
-	background: #ff8040;
-	color: white;
-	text-align: center;
-	font-size: 13px;
-}
-#contacts {
-	background-color: #c60304;
-	color: white;
+	height: 100px;
+	padding: 20px;
+	border: 1px solid black;
 }
