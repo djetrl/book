@@ -1,59 +1,21 @@
 #wrapper {
-	width: 900px;
-	margin: 0 auto 50px;
+	width: 700px;
+	margin: 0 auto;
 }
-#containter {
-	margin-bottom: 20px;
-	border-left: 1px ridge #fc9d00;
-	border-right: 1px ridge #fc9d00;
-	border-bottom: 1px ridge #fc9d00;
-}
-#menu {
-	display: flex;
-	background-color: #fc9d00;
-	margin-bottom: 20px;
-}
-#menu a {
-	padding: 15px 25px;
-	text-decoration: none;
-	color: #fff;
-	font: bold 15px Arial;
-}
-#menu a:hover,
-#menu a.active {
-	color: #fc9d00;
-	background-color: #fff;
-}
-#content h1 {
+#wrapper h1 {
 	font: 30px "Times New Roman";
-}
-#content h1,
-#content h2 {
 	text-align: center;
-	margin-bottom: 10px;
-	color: #9b6100;
 }
-#content p {
-	margin-bottom: 5px;
-	padding: 0 10px;
-	font: 17px/33px "Times New Roman";
+#wrapper p {
+	margin: 10px 0;
 	text-align: justify;
-	text-indent: 50px;
-	color: #cc8000;
 }
-#content a {
-	color: #cc8000;
-	text-decoration: underline;
-	font-weight: bold;
+#wrapper p.more {
+	text-align: right;
+	padding-right: 20px;
 }
-#footer {
-	display: flex;
-	justify-content: center;
-	font: 13px Arial;
-}
-#footer a {
-	margin: 0 10px;
-	text-decoration: none;
-	color: #9b6100;
-	font: bold 13px Arial;
+#wrapper div {
+	margin-bottom: 20px;
+	border: 1px solid #707070;
+	padding: 20px;
 }
