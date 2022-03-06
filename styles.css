@@ -1,21 +1,16 @@
 .parent {
-	width: 100%px;
-	padding: 20px;
+	width: 750px;
+height: 350px;
 	margin: 0 auto;
-	border: 1px solid black;
+	border: 1px solid rgb(248, 7, 7);
 	text-align: justify;
+	display: flex;
+	flex-direction: row;
 }
 
 .child {
-	float: right;
+
 	width: 100px;
-	height: 70px;
-	margin-top: 20px;
-	margin-left: 20px;
-	margin-bottom: 10px;
+	height: 60px;
 	border: 1px solid green;
 	text-align: center;
-}
-.clearfix {
-	clear: both;
-}
